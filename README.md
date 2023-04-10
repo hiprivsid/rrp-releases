@@ -12,6 +12,10 @@ Repo for rrp releases site
 
 ### whyred a.k.a Redmi Note 5.
 
+### sweet a.k.a Redmi Note 10 Pro
+
+### begonia a.k.a Redmi note 8 Pro
+
 # Download
 
 Download from [releases](https://github.com/nedokaka/rrp-releases/releases) page 

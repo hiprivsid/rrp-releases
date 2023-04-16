@@ -4,17 +4,17 @@ Repo for rrp releases site
  
 # Devices
 
-### cactus a.k.a Redmi 6A;
+### Xiaomi Redmi 6A (cactus)
 
-### vayu a.k.a. POCO X3 Pro;
+### Xiaomi POCO X3 Pro (vayu)
 
-### j5xnte a.k.a Samsung Galaxy J5 LTE (2016);
+### Samsung Galaxy J5 2016 (j5xnte)
 
-### whyred a.k.a Redmi Note 5.
+### Xiaomi Redmi Note 5 (whyred)
 
-### sweet a.k.a Redmi Note 10 Pro
+### Xiaomi Redmi Note 10 Pro (sweet)
 
-### begonia a.k.a Redmi note 8 Pro
+### Xiaomi Redmi note 8 Pro (begonia)
 
 # Download
 
